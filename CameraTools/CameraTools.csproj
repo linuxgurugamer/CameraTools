@@ -80,6 +80,7 @@
   <ItemGroup>
     <Content Include="GameData\CameraTools\Changelog.txt" />
     <Content Include="GameData\CameraTools\License.txt" />
+    <Content Include="GameData\CameraTools\MiniAVC.dll" />
     <Content Include="GameData\CameraTools\Sounds\sonicBoom.wav" />
     <Content Include="GameData\CameraTools\Sounds\windhowl.wav" />
     <Content Include="GameData\CameraTools\Sounds\windloop.wav" />
@@ -88,8 +89,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="GameData\CameraTools\ATM_CameraTools.cfg" />
-    <None Include="GameData\CameraTools\paths.cfg" />
-    <None Include="GameData\CameraTools\settings.cfg" />
+    <None Include="GameData\CameraTools\CameraTools.version" />
+    <None Include="GameData\CameraTools\PluginData\paths.cfg" />
+    <None Include="GameData\CameraTools\PluginData\settings.cfg" />
   </ItemGroup>
   <ItemGroup />
   <PropertyGroup>
